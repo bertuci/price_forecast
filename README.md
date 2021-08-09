@@ -6,4 +6,10 @@ Para esse projeto vamos utlizar a arquitetura LSTM.
 
 Para ter o arquivo que vamos utlizar nesse projeto basta ir até o site da <a href="http://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/mercado-a-vista/series-historicas/">B3</a> nas séries históricas e fazer o download dos arquivos e em seguida passar pelo arquivo de engenharia de dados.
 
-Logo depois utlizar esse arquivo n
+Logo depois utlizar esse arquivo no notebook Prevendo_10_dias.ipynb
+
+você pode escolher a quantia de dias para prever.
+
+## Avisos
+Essa é uma primeiera versão e a rede neural com LSTM precisa de ajustes e refinamentos para melhorar a precisão.
+
